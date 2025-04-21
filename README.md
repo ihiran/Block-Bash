@@ -29,8 +29,6 @@
 -  Clean, extensible object-oriented design
 
 
-## 🕹️ Gameplay Overview
-
 ###  Game Entities:
 - **Paddle** – Controlled with arrow keys; reflects the ball.
 - **Ball** – Bounces autonomously off paddle, walls, and blocks.
