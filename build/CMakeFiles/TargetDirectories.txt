@@ -1,0 +1,3 @@
+D:/C++ game/game44/build/CMakeFiles/game44.dir
+D:/C++ game/game44/build/CMakeFiles/ALL_BUILD.dir
+D:/C++ game/game44/build/CMakeFiles/ZERO_CHECK.dir
