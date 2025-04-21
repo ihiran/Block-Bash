@@ -12,7 +12,6 @@
 - [How to Play](#how-to-play)
 - [Controls](#controls)
 - [Project Structure](#project-structure)
-- [Screenshots](#screenshots)
 - [Conclusion](#conclusion)
 
 ---
@@ -27,6 +26,8 @@
 -  Smooth paddle and ball physics
 -  File-based high score persistence
 -  Clean, extensible object-oriented design
+
+  ## Gameplay Overview
 
 
 ###  Game Entities:
